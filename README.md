@@ -1,6 +1,6 @@
 # Image Lightbox
 
-Click any image in a note to view it full size in an overlay.
+Click any image in a note to view it full size in an overlay. Works for regular images, `.svg` files, and inline SVG diagrams (Excalidraw drawings, Mermaid charts).
 
 A plugin for [Digital Garden](https://github.com/oleeskild/digitalgarden) sites.
 
